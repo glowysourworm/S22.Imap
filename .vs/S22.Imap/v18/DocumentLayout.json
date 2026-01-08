@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Backup\\_Source\\Git\\S22.Imap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369C32A5-E099-4BD5-BBBF-51713947CA99}|S22.Imap.csproj|c:\\backup\\_source\\git\\s22.imap\\imapclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369C32A5-E099-4BD5-BBBF-51713947CA99}|S22.Imap.csproj|solutionrelative:imapclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369C32A5-E099-4BD5-BBBF-51713947CA99}|S22.Imap.csproj|c:\\backup\\_source\\git\\s22.imap\\auth\\sasl\\saslfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369C32A5-E099-4BD5-BBBF-51713947CA99}|S22.Imap.csproj|solutionrelative:auth\\sasl\\saslfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52283D-B191-4145-8EF0-B2C69D7A193E}|Tests\\Tests.csproj|c:\\backup\\_source\\git\\s22.imap\\tests\\oauth2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52283D-B191-4145-8EF0-B2C69D7A193E}|Tests\\Tests.csproj|solutionrelative:tests\\oauth2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OAuth2Test.cs",
+              "DocumentMoniker": "C:\\Backup\\_Source\\Git\\S22.Imap\\Tests\\OAuth2Test.cs",
+              "RelativeDocumentMoniker": "Tests\\OAuth2Test.cs",
+              "ToolTip": "C:\\Backup\\_Source\\Git\\S22.Imap\\Tests\\OAuth2Test.cs",
+              "RelativeToolTip": "Tests\\OAuth2Test.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:38:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaslFactory.cs",
+              "DocumentMoniker": "C:\\Backup\\_Source\\Git\\S22.Imap\\Auth\\Sasl\\SaslFactory.cs",
+              "RelativeDocumentMoniker": "Auth\\Sasl\\SaslFactory.cs",
+              "ToolTip": "C:\\Backup\\_Source\\Git\\S22.Imap\\Auth\\Sasl\\SaslFactory.cs",
+              "RelativeToolTip": "Auth\\Sasl\\SaslFactory.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowE8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:37:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImapClient.cs",
+              "DocumentMoniker": "C:\\Backup\\_Source\\Git\\S22.Imap\\ImapClient.cs",
+              "RelativeDocumentMoniker": "ImapClient.cs",
+              "ToolTip": "C:\\Backup\\_Source\\Git\\S22.Imap\\ImapClient.cs",
+              "RelativeToolTip": "ImapClient.cs",
+              "ViewState": "AgIAAOsIAAAAAAAAAAAowAAJAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:11:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
